@@ -1,0 +1,55 @@
+body {
+  background-image: url("MercheeBG.jpg");
+  background-size: cover;
+}
+
+
+form{
+  position: fixed;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-bottom: 50px;
+  margin-left: 100px;
+  background-color: black;
+  opacity: 0.1px;
+  top: 150px;
+  border-radius: 25px;
+  width: 800px;
+  height: 300px; 
+  left: 250px;
+  opacity: 70%;
+}
+
+div{
+  position: absolute;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 140px;
+  margin-left: 50px;
+  background-color: white;
+  top: 20px;
+  border-radius: 25px;
+  width: 455px;
+  height: 200px; 
+  left: 300px;
+
+}
+
+
+
+hr{
+  margin-top: 25px;
+  margin-right: 20px;
+  border: 8px solid yellow;
+  border-radius: 20px;
+    
+}
+
+.icon{
+  background-color: rgb(49, 121, 186);
+  padding-top: 220px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-style: solid;
+}
+

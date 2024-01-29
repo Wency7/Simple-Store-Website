@@ -1,0 +1,65 @@
+
+form {
+  margin-top: 1rem;
+  margin-left: 1rem;
+  display: flex;
+  width: 15rem;
+  height: 150px;
+}
+
+.Infotext {
+  margin-left: 1rem;
+  margin-top: 1rem;
+}
+
+.orders1 {
+  position: absolute;
+  top: 11rem;
+  width: 96%;
+  height: 16rem;
+  margin-left: 1rem;
+  margin-right: 3rem;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.96);
+}
+
+.orders2 {
+  position: absolute;
+  top:28rem;
+  width: 96%;
+  height: 20rem;
+  margin-left: 1rem;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.96);
+}
+
+.orders {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  margin-left: 10px;
+  height: 40px;
+  width: 200px;
+  background-color: #6f95d1;
+  border-radius: 10px;
+}
+
+
+p3 {
+  font-size: 25px;
+  font-family: times;
+  font-weight: normal;
+}
+
+p1 {
+  font-size: 30px;
+  font-weight: bolder;
+  font-family: arial, serif, sans-serif;
+}
+
+p2 {
+  font-size: 20px;
+  font-weight: normal;
+  font-family: arial;
+}
